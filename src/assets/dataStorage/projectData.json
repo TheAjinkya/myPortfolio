@@ -1,0 +1,31 @@
+[
+        {
+            "name": "World Bank Group - CATS",
+            "client":"World Bank Group, USA ",
+            "role" : "Software Developer – UI",
+            "tech" : "Technology Stack : Angular, Bootstrap, HTML5, CSS3, Dot Net",
+            "info" : "‘Carbon Asset and Transmission System’ is the product designed for the ‘World Bank Group’ for the tracking and wokflow of assets of all the coutries and third party agencies. In this I was working as a web developer who used to handle all the stuff related to the data integration and represenatation."
+        },
+        {
+            "name": "Brix Lab Facility management for Automotive Industry ",
+            "client":"Maruti Suzuki, Noida ",
+            "role" : "Software Developer – UI",
+            "tech" : "Technology Stack : ReactJS, Bootstrap, HTML5, CSS3, NodeJS",
+            "info" : "Basically, it’s a product validation and management tool for the automotive domain. It is used as a data Integrator and data management platform designed for the testing of various parts of the vehicle such as engine testing, emission testing and various kinds of examination on test beds."
+        },
+        {
+            "name": "Brix PVM",
+            "client":"Maruti Suzuki, Noida ",
+            "role" : "Software Developer – UI",
+            "tech" : "JAVA spring, Angular JS, Bootstrap, jQuery, JavaScript, Webix",
+            "info" : "It is the enterprise level solution for the management of various tests conducted for the testing purpose Maruti vehicles such as Swift and Dezire and its engine testing at various parameter range of temperature and pressure. It’s a platform which gives user flexibility to check the tests from a web based application. It is used as a data Integrator and data management platform designed for the testing of various parts of the vehicle such as engine testing, emission testing and various kinds of examination on test beds."
+        },
+        {
+            "name": "Hods 2.0",
+            "client":"Honda, Japan ",
+            "role" : "Software Developer – UI",
+            "tech" : "Technology Stack : JAVA, Angular, Webix, Bootstrap, HTML5, CSS3",
+            "info" : "This is the product of the company which is mainly designed for the client “Honda -Japan”. It is a web based application that manipulates the data got from the actuators in engine testing. Its mainly into Automobile domain. It comprises a suite of automation tools that streamline and simplify the data analysis, annotation, and reporting of sequencing data."
+        }
+    
+]

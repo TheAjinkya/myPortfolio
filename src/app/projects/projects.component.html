@@ -1,0 +1,19 @@
+<p>Project details are as follow</p>
+
+<div class="row">
+    <div class="col-sm-12">
+            <div *ngFor="let project of projects" class="card">
+              <div class="card-header bg-primary text-white">{{project.name}}</div>
+              <div class="card-body">
+                <ul>
+                    <li> <b> Client:</b> {{project.client}}</li>
+                    <li><b>Role: </b> {{project.role}}</li>
+                    <li><b>Technology Stack:</b>{{project.tech}}</li>
+                    <li> <b>Description:</b> {{project.info}}</li>
+                  </ul>
+              </div> 
+            </div>
+    </div>
+  </div>
+
+
