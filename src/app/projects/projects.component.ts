@@ -8,7 +8,7 @@ import { DataService } from '../data.service';
 })
 export class ProjectsComponent implements OnInit {
 
-  projects : [] = []
+  projects :any[] = []
 
   constructor(private dataService : DataService) { }
 
